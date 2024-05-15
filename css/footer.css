@@ -1,0 +1,41 @@
+footer{
+    padding: 10px;
+    background-color: #000;
+    color: #fff;
+}
+
+footer section{
+    margin: 0 auto;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+#links-container{
+    gap: 5rem;
+    flex-wrap: nowrap;
+    display: flex;
+    margin-bottom: 7em;
+}
+
+.footerTitulo{
+    border-bottom: 1px solid #0000FF;
+    font-size: 14px;
+}
+.footerTexto{
+    margin-top: 10px;
+    color:#fff; 
+    font-size: 12px;
+}
+.footerLink{
+    text-decoration: none;
+}
+
+.footer-direitos {
+    display: flex;
+    align-items: center;
+    gap: 1em;
+}
+
+.footer-direitos p {
+    font-size: 10px;
+}
