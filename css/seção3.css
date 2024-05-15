@@ -1,4 +1,4 @@
-div.secao3 {
+.secao3 {
     background-image: linear-gradient(180deg, #0000FF , #00005A);
     display: flex;
     justify-content: space-around;
