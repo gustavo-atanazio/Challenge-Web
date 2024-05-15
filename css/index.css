@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
-@import url('./seção3');
+
+@import url('./footer.css');
+@import url('./login.css');
+@import url('./nav.css');
+@import url('./secao2.css');
+@import url('./seção3.css');
 
 * {
     margin: 0;
