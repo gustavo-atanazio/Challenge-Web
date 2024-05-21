@@ -6,4 +6,4 @@ setInterval(() => {
     if (counter >= slides.length) counter = 0;
 
     document.querySelector('.slides').style.transform = `translateX(-${counter * 100}%)`;
-}, 3000);
+}, 5000);
